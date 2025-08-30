@@ -1,3 +1,4 @@
+
 # 📚 Prince Education Website
 
 This is a simple educational website built using **HTML, CSS, and JavaScript**.  
@@ -5,6 +6,17 @@ It includes sections like Home, About Us, Institutions, Courses, Results, Facili
 The project demonstrates multi-page navigation (single-page simulation), search functionality, and styled layouts.
 
 ---
+
+
+# ⚠️🚨❗❗❗ DESKTOP ONLY ❗❗❗🚨⚠️
+
+### 🖥️ This website is currently optimized **ONLY for desktop view**.  
+📱📲 Mobile, Tablet, and other devices are **NOT yet supported**.  
+✨ Future enhancement will include making it fully **responsive** for all devices.
+
+
+---
+
 
 ## 🚀 Features
 - Home page with introduction  
